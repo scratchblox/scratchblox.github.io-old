@@ -7,4 +7,7 @@ using namspace std;
 
 int main(int nNumberofArgs, char* pszArgs[])
 {
-  
+ int exponet;
+   cout << "Enter exponet"
+     cin >> exponet
+     int factor;
