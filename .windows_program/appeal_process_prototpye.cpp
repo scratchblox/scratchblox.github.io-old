@@ -17,7 +17,7 @@ int main(int nNumberofArgs, char* pszArgs[])
  cin >> Username ;
  
  int reason;
- cout << "Enter the reason why you want to be unbanned"
+ cout << "Enter the reason why you want to be unbanned" ;
  cin >> reason ;
  
  int argeement;
