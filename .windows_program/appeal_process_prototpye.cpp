@@ -5,8 +5,8 @@
 #include <cstdlib>
 #include <cstdio>
 #include <iostream>
-#include "window.h"
-#include <window> // or is it #include <windows> or #include <window.h> or  is it #include <windows.h>
+//#include "window.h"
+//#include <window> or is it #include <windows> or #include <window.h> or  is it #include <windows.h>
 //Insert more libraries if I forgot some libraries.
 using namespace std;
 //insert windows programming code
