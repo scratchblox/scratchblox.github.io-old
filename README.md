@@ -3,5 +3,4 @@
 
 ...
 
-I feel like something should go here... -Unknown ////
-Yeah, something SHOULD go here... -101Corp
+<i>(removed by repository admin - pleasle do not use the README.ME File as a chat)</i>
