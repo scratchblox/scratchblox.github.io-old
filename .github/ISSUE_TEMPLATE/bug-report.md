@@ -2,7 +2,7 @@
 name: Bug report
 about: Found a bug or giltch? Report it here
 title: "[BUG]"
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
@@ -31,7 +31,8 @@ If applicable, add screenshots to help explain your problem.
 **Device infomation**
  - OS: [e.g. iOS]
  - Browser: [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS Version [e.g. 22]
+ - Browser Verison: [e.g. 88,89,87]
 - CPU:
 - GPU:
 
