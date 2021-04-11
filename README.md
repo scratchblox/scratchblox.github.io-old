@@ -1,10 +1,5 @@
 # scratchblox
 
-
-...
-
-<i>(removed by repository admin - pleasle do not use the README.md File as a chat)</i>
-
 ## Rules
 1. No Using the README.md file as a chat
 2. No uploading files that have a filename of a hash
