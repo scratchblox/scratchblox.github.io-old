@@ -12,13 +12,13 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-Website Error 404 issue:
-- 1. go to "scratchblox.github.io/..." (replace ... with the url)
-Game issue:
+- Website Error 404 issue:
+go to "scratchblox.github.io/..." (replace ... with the url)
+- Game issue:
 Pleasle contact the game developer to fix this bug.
-Website downtime issue:
+- Website downtime issue:
 This is usually a problem with GitHub pages, instead, contact GitHub Support.
-Other issue: 
+- Other issue: 
 Give a clear and descriptive steps to reproduce the bug/glitch.
 
 
