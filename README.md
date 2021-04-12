@@ -1,10 +1,10 @@
 # scratchblox
 
 ## Rules
-1. No Using the README.md file as a chat
-2. No uploading files that have a filename of a hash
-3. Follow the code of conduct, the github guidelines, and the github TOS
-4. Do not edit any files in the .github folder
+1. No using the README.md file as a chat
+2. No uploading files who's filename is a hash
+3. Follow the Code of Conduct, the GitHub Guidelines, and the GitHub TOS
+4. Do not edit any files placed in the .github folder
 5. Do not edit the uploads.html file
-6. Do not post off topic posts in discussions
-7. Do not edit the rules unless you are a repository admin.
+6. Do not post off-topic posts in Discussions
+7. Do not edit the rules unless you are a Repository Admin or the Head Moderator
