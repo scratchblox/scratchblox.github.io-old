@@ -1,5 +1,8 @@
 # ScratchBlox GitHub Repository
 
+## News
+- ScratchBlox Forums is up! See the Discussions tab for the post, view the site at https://scratchblox-official.wixsite.com/forums
+
 ## Rules
 1. No using the README.md file as a chat
 2. No uploading files who's filename is a hash
@@ -8,6 +11,3 @@
 5. Do not edit the uploads.html file
 6. Do not post off-topic posts in Discussions
 7. Do not edit the rules unless you are a Repository Admin or the Head Moderator
-
-## News
-- Turtle84375 has requested a review of a beta edition of the ScratchBlox Forums; see the Discussions tab for the post; https://scratchblox-official.wixsite.com/forums
