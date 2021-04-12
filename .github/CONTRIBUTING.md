@@ -4,6 +4,12 @@ Work in progress
 
 ## Our offical Contributing Guidelines
 
-#### Code documentation in code in all langauges execpt for HTML
+#### Code documentation in code in all langauges
 
-We require that all c
+We encoruage you to Document your code when submiting files to the project.
+
+###### Benfits
+- Makes code editing eaiser for collabrators
+### Issues
+
+#### Found a Issue?
