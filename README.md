@@ -1,4 +1,4 @@
-# scratchblox
+# ScratchBlox GitHub Repository
 
 ## Rules
 1. No using the README.md file as a chat
@@ -8,3 +8,6 @@
 5. Do not edit the uploads.html file
 6. Do not post off-topic posts in Discussions
 7. Do not edit the rules unless you are a Repository Admin or the Head Moderator
+
+## News
+- Turtle84375 has requested a review of a beta edition of the ScratchBlox Forums; see the Discussions tab for the post
