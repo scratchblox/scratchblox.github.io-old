@@ -5,7 +5,7 @@
 
 ## Rules
 1. No using the README.md file as a chat
-2. No uploading files who's filename is a hash
+2. No uploading files who's filename is a hash (including, but not limited to: MD5, SHA256, MD4, MD2, CRC-32, CRC-64)
 3. Follow the Code of Conduct, the GitHub Guidelines, and the GitHub TOS
 4. Do not edit any files placed in the .github folder
 5. Do not edit the uploads.html file
