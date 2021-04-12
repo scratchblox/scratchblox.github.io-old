@@ -53,6 +53,8 @@ You may get a Warning for:
 For more serious breaches of the Code of Conduct, you will be Temporarily Banned from ScratchBlox for up to 400 Days.
 ### Permament Ban
 If you get Temporarily Banned 3 Times, or commit an extremely serious breach of the Code Of Conduct, you will be permamently banned from ScratchBlox.
+## Changes to the Code Of Conduct
+We Reserve the Right to Change the Code Of Conduct at any time, with or without notice.
 ## Disclaimer
 If Something isn't explictly stated in the Code of Conduct, it does NOT mean it is allowed/disallowed. If in doubt, contact a
 Moderator or Manager.
