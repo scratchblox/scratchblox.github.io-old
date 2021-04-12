@@ -54,7 +54,7 @@ For more serious breaches of the Code of Conduct, you will be Temporarily Banned
 ### Permament Ban
 If you get Temporarily Banned 3 Times, or commit an extremely serious breach of the Code Of Conduct, you will be permamently banned from ScratchBlox.
 ## Changes to the Code Of Conduct
-We Reserve the Right to Change the Code Of Conduct at any time, with or without notice.
+We Reserve the Right to Change the Code Of Conduct at any time, With or Without Notice.
 ## Disclaimer
 If Something isn't explictly stated in the Code of Conduct, it does NOT mean it is allowed/disallowed. If in doubt, contact a
 Moderator or Manager.
