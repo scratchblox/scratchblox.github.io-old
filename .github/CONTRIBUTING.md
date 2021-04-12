@@ -8,7 +8,7 @@ Work in progress
 
 We encoruage you to Document your code when submiting files to the project.
 
-###### Benfits
+##### Benifits
 - Makes code editing eaiser for collabrators
 ### Issues
 
