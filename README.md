@@ -10,4 +10,4 @@
 7. Do not edit the rules unless you are a Repository Admin or the Head Moderator
 
 ## News
-- Turtle84375 has requested a review of a beta edition of the ScratchBlox Forums; see the Discussions tab for the post
+- Turtle84375 has requested a review of a beta edition of the ScratchBlox Forums; see the Discussions tab for the post; https://scratchblox-official.wixsite.com/forums
