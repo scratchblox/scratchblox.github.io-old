@@ -18,7 +18,12 @@ height: 5%;
   float: left;
 }
 
-#navbar a {
+#navbar > a {
   display: block;
   padding: 8px;
+}
+
+#navbar > li {
+  display: inline;
+  float: left;
 }
