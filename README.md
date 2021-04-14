@@ -1,7 +1,7 @@
 # ScratchBlox GitHub Repository
 
 ## News
-- ScratchBlox Forums is up! See the Discussions tab for the post, view the site at https://scratchblox-official.wixsite.com/forums
+- ScratchBlox Forums has recieved a major upgrade! All current members of the Wix ScratchBlox Forums should go to the new site to register for an account: https://www.scratchblox-forums.epizy.com/
 
 ## Rules
 1. No using the README.md file as a chat
