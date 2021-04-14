@@ -60,7 +60,7 @@ If Something isn't explictly stated in the Code of Conduct, it does NOT mean it 
 Moderator or Manager.
 
 ## Appendix A: Usage Permission for Other Projects
-Anyone is free to use this Code of Conduct in there project under the terms of the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> BSD 3-Clause License </a>.
+Anyone is free to use this Code of Conduct in there project under the terms of the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> BSD 4-Clause License </a>.
 
 ### Credit
 @UltraCube100 is the main creator of this code of conduct. @Turtle84375 Corrected some stuff in the Code of Conduct, to make it easier to understand.
