@@ -59,7 +59,7 @@ For more serious breaches of the Code of Conduct, you will be Temporarily Banned
 ### Permament Ban
 If you get Temporarily Banned 3 Times, or commit an extremely serious breach of the Code Of Conduct, you will be permamently banned from ScratchBlox.
 
-### Reporting Breaches of the Code of Conduct
+## Reporting Breaches of the Code of Conduct
 You may report Breaches of the Code of Conduct commited by anyone within ScratchBlox to the Admins (or Moderators) via Reporting Abuse the the admins. You are also recommended to send the report to GitHub Support as well 
 ###### Managers, Moderators pleasle find a way to improve this, once you improve this, remove this message
 ## Changes to the Code Of Conduct
