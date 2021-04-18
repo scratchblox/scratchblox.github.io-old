@@ -38,12 +38,12 @@ We consider Actions unacceptable if they are:
 - Unkind
 - Rude
 - Harassment of any kind
-- Abuse of any ScratchBlox Systems
+- Abuse of any ScratchBlox Software
 
 Actions which fall into these categories include:
 - Naming and/or shaming
 - Promoting hate towards a user
-- Repeatedly posting the the same item ("spamming")
+- Repeatedly posting the the same item (or "Spamming") 
 - Harrasing a User
 
 ## Punishments For Code of Conduct Breaches
