@@ -16,7 +16,7 @@ A Person (you or someone else) who has commited to this repository or any other 
 The ScratchBlox Guidelines, including but not limited to this document
 #### Actions
 Any process carried out by a User within ScratchBlox and its GitHub Organization
-#### Systems
+#### Software (or "Systems")
 Any and all code, programs, and software developed within ScratchBlox and its GitHub organization
 
 ## Acceptable Actions
@@ -59,11 +59,14 @@ For more serious breaches of the Code of Conduct, you will be Temporarily Banned
 ### Permament Ban
 If you get Temporarily Banned 3 times, or commit an blatant and/or destructive breach of the Code Of Conduct, you will be permamently banned from ScratchBlox. Appeals status will be determined by the banning administrator.
 
+## Licensing
+ScratchBlox and it's other software made by its contributors are licensed under the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> BSD 4-Clause License </a> unless otherwise noted. You are responsible for making sure your Actions comply with the license.
+
 ## Reporting Breaches of the Code of Conduct
 You may report breaches of the Code of Conduct commited by anyone within ScratchBlox to the Admins (or Moderators) via available Report features. For breaches within any ScratchBlox repositories, it is also recommended that You send a report to GitHub Support as well. An Admin or Moderator will review your report as soon as possible, and will take necessary action from there in accordance with the Punishments For Code of Conduct Breaches.
 
 ## Changes to the Code Of Conduct
-We reserve the right to change the Code Of Conduct at any time, with or without notice. By using ScratchBlox, its repositories, and/or any of its Systems, you release us from holding any responsibility for Code of Conduct breaches that You commit because you were unaware of any changes. You additionally agree that it is Your responsibility to regularly check for changes to this Code of Conduct in order that You may comply with them.
+We reserve the right to change the Code Of Conduct at any time, with or without notice. By using ScratchBlox, its repositories, and/or any of its Software, you release us from holding any responsibility for Code of Conduct breaches that You commit because you were unaware of any changes. You additionally agree that it is Your responsibility to regularly check for changes to this Code of Conduct in order that You may comply with them.
 ## Disclaimer
 If something is not explicitly stated within the Code of Conduct, it does **not** mean it is allowed, or vice-versa, disallowed. If in doubt, you are responsible for contacting a Moderator or Manager.
 
