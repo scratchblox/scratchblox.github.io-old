@@ -71,7 +71,7 @@ We reserve the right to change the Code Of Conduct at any time, with or without 
 If something is not explicitly stated within the Code of Conduct, it does **not** mean it is allowed, or vice-versa, disallowed. If in doubt, you are responsible for contacting a Moderator or Manager.
 
 ## Appendix A: Usage Permission for Other Projects
-Anyone is free to use this Code of Conduct in their own projects under the terms of the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> BSD 4-Clause License </a>.
+Anyone is free to use this Code of Conduct in their own projects under the terms of the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> BSD 4-Clause License </a>. In addtion, credit and a Acknowledegement is Required. Below are the Credits and the Acknowledegement. If you use this license in your own projects, you shall not edit, or remove the credits or the Acknowledegement from the code of conduct. Addtionally, you must note at the bottom that ScratchBlox is not endorsed, or affilated with ScratchBlox.
 
 ### Credit
 @UltraCube100 is the initiator of this Code of Conduct. @Turtle84375 corrected and edited items within this Code of Conduct.
