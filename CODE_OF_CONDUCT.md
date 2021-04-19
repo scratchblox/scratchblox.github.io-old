@@ -60,7 +60,7 @@ For more serious breaches of the Code of Conduct, you will be Temporarily Banned
 If you get Temporarily Banned 3 times, or commit an blatant and/or destructive breach of the Code Of Conduct, you will be permamently banned from ScratchBlox. Appeals status will be determined by the banning administrator.
 
 ## Licensing
-ScratchBlox and it's other software made by its contributors are licensed under the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> BSD 4-Clause License </a> unless otherwise noted. You are responsible for making sure your Actions comply with the license.
+ScratchBlox and it's other software made by its contributors are licensed under the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> BSD 4-Clause License </a> unless otherwise <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE_EXECPTIONS">noted</a>. You are responsible for making sure your Actions comply with the license.
 
 ## Reporting Breaches of the Code of Conduct
 You may report breaches of the Code of Conduct commited by anyone within ScratchBlox to the Admins (or Moderators) via available Report features. For breaches within any ScratchBlox repositories, it is also recommended that You send a report to GitHub Support as well. An Admin or Moderator will review your report as soon as possible, and will take necessary action from there in accordance with the Punishments For Code of Conduct Breaches.
