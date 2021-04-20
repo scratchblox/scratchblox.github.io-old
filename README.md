@@ -11,3 +11,4 @@
 5. Do not edit the uploads.html file
 6. Do not post off-topic posts in Discussions
 7. Do not edit the rules unless you are a Repository Admin 
+8. No editing the LICENSE file.
