@@ -60,7 +60,7 @@ For more serious breaches of the Code of Conduct, you will be Temporarily Banned
 If you get Temporarily Banned 3 times, or commit an blatant and/or destructive breach of the Code Of Conduct, you will be permamently banned from ScratchBlox. Appeals status will be determined by the banning administrator.
 
 ## Licensing
-ScratchBlox and it's other software made by its contributors are licensed under the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> BSD 4-Clause License </a> unless otherwise <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE_EXCEPTIONS">noted</a>. You are responsible for making sure your Actions comply with the license.
+Unless Otherwise Noted, ScratchBlox and it's other software made by its contributors are licensed under the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> GNU GPLv3 License </a> . You are responsible for making sure your Actions comply with the license.
 
 ## Reporting Breaches of the Code of Conduct
 You may report breaches of the Code of Conduct commited by anyone within ScratchBlox to the Admins (or Moderators) via available Report features. For breaches within any ScratchBlox repositories, it is also recommended that You send a report to GitHub Support as well. An Admin or Moderator will review your report as soon as possible, and will take necessary action from there in accordance with the Punishments For Code of Conduct Breaches.
@@ -71,9 +71,8 @@ We reserve the right to change the Code Of Conduct at any time, with or without 
 If something is not explicitly stated within the Code of Conduct, it does **not** mean it is allowed, or vice-versa, disallowed. If in doubt, you are responsible for contacting a Moderator or Manager.
 
 ## Appendix A: Usage Permission for Other Projects
-Anyone is free to use this Code of Conduct in their own projects under the terms of the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> BSD 4-Clause License </a>. In addtion, credit and a Acknowledegement is Required. Below are the Credits and the Acknowledegement. If you use this license in your own projects, you shall not edit, or remove the credits or the Acknowledegement from the code of conduct. Addtionally, you must note at the bottom that ScratchBlox is not endorsed, or affilated with ScratchBlox.
+Anyone is free to use this Code of Conduct in their own projects under the terms of the <a href = "https://github.com/scratchblox/scratchblox.github.io/blob/main/LICENSE"> BSD 4-Clause License </a>. In addtion, credit and a Acknowledegement is Required. Below are the Credits and the Acknowledegement. If you use this license in your own projects, you shall not edit, or remove the credits or the Acknowledegement from the code of conduct. Addtionally, you must note at the bottom that your project is not endorsed, or affilated with ScratchBlox.
 
 ### Credit
 @UltraCube100 is the initiator of this Code of Conduct. @Turtle84375 corrected and edited items within this Code of Conduct.
-### Acknowledegement
-This product includes software developed by ScratchBlox.
+
