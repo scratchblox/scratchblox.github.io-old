@@ -1,4 +1,4 @@
-# This Repo is Old, please instead go to [link coming soon]
+# This Repo is Old, please instead go to [https://github.com/scratchblox/scratchblox.github.io]
 
 
 # ScratchBlox GitHub Repository
